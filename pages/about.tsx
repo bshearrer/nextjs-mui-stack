@@ -3,8 +3,8 @@ import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
-import Link from '../src/Link';
-import ProTip from '../src/ProTip';
+import Link from '../src/components/Link';
+import ProTip from '../src/components/ProTip';
 import Copyright from '../src/components/Copyright';
 
 export default function About() {
